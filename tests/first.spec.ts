@@ -8,7 +8,7 @@ test('verify title is correct', async ({ page }) => {
   console.log("URL",url);
 
 
-  await expect(page).toHaveURL('https://rahulshettyacademy.com/');
+  await expect(page).toHaveURL('https://rahulshettyacademy.co/');
 });
 
  
